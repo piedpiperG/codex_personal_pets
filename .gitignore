@@ -1,0 +1,11 @@
+raw_references/
+generated_images/
+tmp/
+*.mp4
+*.mov
+*.avi
+*.webm
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

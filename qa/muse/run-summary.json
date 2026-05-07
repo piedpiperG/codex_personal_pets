@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "C:\\Users\\gengyizhong\\.codex\\tmp\\hatch-pet\\muse",
+  "spritesheet": "C:\\Users\\gengyizhong\\.codex\\tmp\\hatch-pet\\muse\\final\\spritesheet.webp",
+  "validation": "C:\\Users\\gengyizhong\\.codex\\tmp\\hatch-pet\\muse\\final\\validation.json",
+  "contact_sheet": "C:\\Users\\gengyizhong\\.codex\\tmp\\hatch-pet\\muse\\qa\\contact-sheet.png",
+  "review": "C:\\Users\\gengyizhong\\.codex\\tmp\\hatch-pet\\muse\\qa\\review.json",
+  "videos": null,
+  "package": "C:\\Users\\gengyizhong\\.codex\\pets\\muse"
+}
